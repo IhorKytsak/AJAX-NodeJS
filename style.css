@@ -1,0 +1,16 @@
+button {
+  display: block;
+  padding: 5px 10px;
+  margin: 10px auto;
+}
+.users {
+  text-align: center;
+}
+
+.item {
+  padding: 10px;
+}
+
+.item:nth-child(odd) {
+  background-color: #f4f4f4;
+}

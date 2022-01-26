@@ -1,5 +1,3 @@
-# the task from Ihor Kytsak and Dvorskyi Volodymyr
-
 ## Practical task :
 
 #### 1. Based on AJAX technology, write the client part of the application (HTML + JavaScript), in which when you click the button sends an asynchronous GET-request to the server (you can use XMLHttpRequest or fetch ()), loads the file users.json and reads all information about the user and displayed on an HTML page (see example below).
